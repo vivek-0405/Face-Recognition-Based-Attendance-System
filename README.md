@@ -118,7 +118,7 @@ Attendance records are saved inside the **Attendance** folder.
 
 ## Author
 
-**Vivek**
+**Vivek Kumar**
 
 B.Tech (Artificial Intelligence & Machine Learning)
 
