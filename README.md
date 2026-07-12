@@ -46,7 +46,6 @@ Face-Recognition-Based-Attendance-System/
 │   ├── faces_data.pkl
 │   ├── names.pkl
 │   └── haarcascade_frontalface_default.xml
-├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
